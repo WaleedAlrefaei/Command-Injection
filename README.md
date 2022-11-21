@@ -24,10 +24,13 @@ XAMPP can be downloaded from: https://www.apachefriends.org/
 
 ## Examples 
 
+### Fixed 
 
 ![impss](https://user-images.githubusercontent.com/70178189/202939221-7a09a223-2519-4e84-abd4-7dd27cbdcb0c.png)
 
 
+
+### Vulnerable
 
 
 ![high](https://user-images.githubusercontent.com/70178189/202939277-a16e3cec-ec2a-46cb-b36b-4087d28b499e.png)
@@ -82,4 +85,11 @@ If it is considered unavoidable to call out to OS commands with user-supplied in
 Validating against a whitelist of permitted values.
 Validating that the input is a number.
 Validating that the input contains only alphanumeric characters, no other syntax or whitespace.
+
+## Resources:
+https://tryhackme.com/room/dvwa
+https://owasp.org/www-community/attacks/Command_Injection
+https://portswigger.net/web-security/os-command-injection
+https://github.com/digininja/DVWA
+
 
