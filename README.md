@@ -4,12 +4,21 @@
 Command injection is an attack in which the goal is execution of arbitrary commands on the host operating system via a vulnerable application. Command injection attacks are possible when an application passes unsafe user supplied data (forms, cookies, HTTP headers etc.) to a system shell. In this attack, the attacker-supplied operating system commands are usually executed with the privileges of the vulnerable application. Command injection attacks are possible largely due to insufficient input validation.
 
 This attack differs from Code Injection, in that code injection allows the attacker to add their own code that is then executed by the application. In Command Injection, the attacker extends the default functionality of the application, which execute system commands, without the necessity of injecting code.
+# Commix-testbed
+i use this tool Commix-testbed is a collection of real-world scenarios, vulnerable to command injection flaws, used to evaluate the detection and exploitation abilities of commix:
+*Regular injection scenarios.
+*Cookie injection scenarios.
+*User-Agent injection scenarios.
+*Referer injection scenarios.
+*Weak filters scenarios. (Hints)
 
 ## Download
 While there are various versions of DVWA around, the only supported version is the latest source from the official GitHub repository. You can either clone it from the repo:
 
-git clone https://github.com/digininja/DVWA.git
-Or download a ZIP of the files and you could use TryHackMe from this link https://tryhackme.com/room/dvwa and no need for installation
+*git clone https://github.com/digininja/DVWA.git Or download a ZIP of the files  
+*you could use TryHackMe from this link https://tryhackme.com/room/dvwa and no need for installation
+* for the Commix-testbed https://github.com/commixproject/commix-testbed everyting will be in this link
+
 ## Installation
 Installation Videos
 Installing DVWA on Kali running in VirtualBox
