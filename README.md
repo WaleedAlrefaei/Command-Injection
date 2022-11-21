@@ -87,9 +87,9 @@ Validating that the input is a number.
 Validating that the input contains only alphanumeric characters, no other syntax or whitespace.
 
 ## Resources:
-https://tryhackme.com/room/dvwa
-https://owasp.org/www-community/attacks/Command_Injection
-https://portswigger.net/web-security/os-command-injection
-https://github.com/digininja/DVWA
+* https://tryhackme.com/room/dvwa
+* https://owasp.org/www-community/attacks/Command_Injection
+* https://portswigger.net/web-security/os-command-injection
+* https://github.com/digininja/DVWA
 
 
