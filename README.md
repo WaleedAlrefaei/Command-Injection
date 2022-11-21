@@ -15,9 +15,9 @@ i use this tool Commix-testbed is a collection of real-world scenarios, vulnerab
 ## Download
 While there are various versions of DVWA around, the only supported version is the latest source from the official GitHub repository. You can either clone it from the repo:
 
-*git clone https://github.com/digininja/DVWA.git Or download a ZIP of the files  
-*you could use TryHackMe from this link https://tryhackme.com/room/dvwa and no need for installation
-* for the Commix-testbed https://github.com/commixproject/commix-testbed everyting will be in this link
+* git clone https://github.com/digininja/DVWA.git Or download a ZIP of the files  
+* you could use TryHackMe from this link https://tryhackme.com/room/dvwa and no need for installation
+* for the Commix-testbed https://github.com/commixproject/commix-testbed everyting will be in this link and no need need for installation it's already download in kali linux 
 
 ## Installation
 Installation Videos
